@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Praguna Chandrasekara</h1>
-<h3 align="center">Enthusiastic Computer Science & Engineering Undergraduate from Sri Lanka</h3>
+<h3 align="center">Enthusiastic Computer Science & Engineering Undergraduate @ University of Moratuwa</h3>
 <img align="right" alt="Coding..."  width="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"/>
 
 
