@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praguna Chandrasekara</h1>
 <h3 align="center">Enthusiastic Computer Science & Engineering Undergraduate from Sri Lanka</h3>
-<img align="right" alt="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"/>
+<img align="right" alt="Coding..." src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"/>
+
 
 
 - 🌱 I’m currently learning **Full Stack Software Development**
